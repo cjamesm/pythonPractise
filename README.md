@@ -12,6 +12,7 @@ https://docs.python.org/3/tutorial/index.html
 
 Making my way through the course on Stack Skills: https://stackskills.com/courses/enrolled/from-0-1-machine-learning1
 
+NLTK is a very cool resource I've found on the course, and there is lots of information at http://www.nltk.org/
 
 # Coding for Entrepreneurs
 
