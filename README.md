@@ -14,6 +14,13 @@ Making my way through the course on Stack Skills: https://stackskills.com/course
 
 NLTK is a very cool resource I've found on the course, and there is lots of information at http://www.nltk.org/
 
+# The Python Challenge!
+
+Having fun working through this: 
+Currently at http://www.pythonchallenge.com/pc/def/linkedlist.php
+Need to put my stuff in git.
+
+
 # Coding for Entrepreneurs
 
 Making my way through a tutuorial which will eventually get into gmail, web scraping and SMS. https://www.codingforentrepreneurs.com/projects/30-days-python/day-2-lists-dictionaries-tuples/?play=true
